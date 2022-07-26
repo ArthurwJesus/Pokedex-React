@@ -4,12 +4,11 @@ Objetivo: Desenvolver uma pokedex usando a PokeAPI(https://pokeapi.co/) com Reac
 
 ## Prototipos
 
-![image](https://user-images.githubusercontent.com/72893926/163871203-e31070b8-a569-4a8a-8b00-1178c8a4a0bd.png)
+Link Figma : https://www.figma.com/file/JgvhbdJVh7B4ZcHK1jkzQJ/Pokedex-Projeto?node-id=0%3A1
 
-<h4> Ainda escolhendo qual a versão será usada:</h4>
-
-![image](https://user-images.githubusercontent.com/72893926/163871307-609b4b01-f709-413d-83dd-3db94b68bc16.png)
-
+<img src="https://i.imgur.com/mWt2u3H.png"/>
+<img src="https://i.imgur.com/m0XTKLV.png"/>
+<img src="https://i.imgur.com/m29E3kr.png"/>
 
 ## Primeira versão feita
 
