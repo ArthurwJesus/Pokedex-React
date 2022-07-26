@@ -7,8 +7,6 @@ Objetivo: Desenvolver uma pokedex usando a PokeAPI(https://pokeapi.co/) com Reac
 Link Figma : https://www.figma.com/file/JgvhbdJVh7B4ZcHK1jkzQJ/Pokedex-Projeto?node-id=0%3A1
 
 <img src="https://i.imgur.com/mWt2u3H.png"/>
-<img src="https://i.imgur.com/m0XTKLV.png"/>
-<img src="https://i.imgur.com/m29E3kr.png"/>
 
 ## Primeira versão feita
 
